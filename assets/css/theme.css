@@ -4674,14 +4674,14 @@ fieldset:disabled .btn {
 }
 
 .nav-tabs .nav-link.disabled {
-  color: #4d5469;
+  color: #4075FF;
   background-color: transparent;
   border-color: transparent;
 }
 
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-  color: #94A2B3;
+  color: #4075FF;
   background-color: #fff;
   border-color: #bec3d0 #bec3d0 #fff;
 }
@@ -4701,7 +4701,7 @@ fieldset:disabled .btn {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #5F37EF;
+  background-color: #4075FF;
 }
 
 .nav-fill > .nav-link,
@@ -5110,7 +5110,7 @@ fieldset:disabled .btn {
 
 .navbar-light .navbar-nav .show > .nav-link,
 .navbar-light .navbar-nav .nav-link.active {
-  color: #5F37EF;
+  color: #4075FF;
 }
 
 .navbar-light .navbar-toggler {
@@ -17985,7 +17985,7 @@ label {
 }
 
 .terms-sidebar .nav-link.active {
-  color: #5F37EF;
+  color: #4075FF;
 }
 
 /*-----------------------------------------------
